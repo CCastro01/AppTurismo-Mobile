@@ -1,0 +1,12 @@
+{
+  "name": "appturismo",
+  "displayName": "appturismo",
+  "expo": {
+    "name": "appturismo",
+    "slug": "appturismo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
